@@ -1,0 +1,11 @@
+# Ignore raw dataset folder
+data/raw/
+
+# Ignore large dataset files
+*.tsv
+*.dev
+*.tar.gz
+
+# Ignore Python cache
+__pycache__/
+*.pyc
