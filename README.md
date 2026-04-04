@@ -1,4 +1,4 @@
-# Smart-Rank-ML
+# search_ranking_project
 
 ## Dataset
 
