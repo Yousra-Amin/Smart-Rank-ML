@@ -1,4 +1,4 @@
-# search_ranking_project
+# Smart-Rank-ML
 
 ## Dataset
 
@@ -9,3 +9,7 @@ https://drive.google.com/drive/folders/103AlJozMclU0svLG8U92lufdMzqBWE_N?usp=sha
 Structure:
 - raw/ → original MS MARCO data
 - cleaned/ → processed dataset
+
+## Feature Engineering
+
+Link to `features_dataset.csv`: https://drive.google.com/drive/folders/152xWKjEohgoFphAQ8LrLtulna7lgCBH5?usp=sharing
