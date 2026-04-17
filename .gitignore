@@ -214,3 +214,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Ignore raw datasets
+data/raw/
+
+# Ignore cleaned large files
+data/cleaned/*.csv
+
+# Ignore large formats
+*.tsv
+*.dev
+*.tar.gz
+
+# Python cache
+__pycache__/
+*.pyc
